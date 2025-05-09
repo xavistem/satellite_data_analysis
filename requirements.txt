@@ -1,0 +1,7 @@
+streamlit
+skyfield
+reverse_geocoder
+pytz
+python-dotenv
+requests
+pydeck
